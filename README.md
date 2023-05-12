@@ -9,7 +9,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Antonio Lucas&bg_color=0d1117&color=89cff0&line=89cff0&point=89cff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasBr07&bg_color=0d1117&color=89cff0&line=89cff0&point=89cff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Main skills:
 [![My Skills](https://skills.thijs.gg/icons?i=html,java)](https://skills.thijs.gg)
